@@ -1,0 +1,19 @@
+{
+  "name": "buscador",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@web/dev-server": "^0.4.6"
+  },
+  "dependencies": {
+    "lit": "^3.2.1"
+  }
+}
